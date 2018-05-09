@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/fondo2"
+    tools:context="com.example.daniloenriquediazrios.adivinalaimagen2.acerca">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="end"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hecho_por"
+            android:textColor="@android:color/background_light"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/danilo_diaz_rios"
+            android:textColor="@android:color/background_light"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/codigo"
+            android:textColor="@android:color/background_light"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/t00033375"
+            android:textColor="@android:color/background_light"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/proposito"
+            android:textColor="@android:color/background_light"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="match_parent"
+            android:layout_height="625dp"
+            android:text="@string/el_funcionamiento_b_sico_de_la_aplicaci_n_consiste_en_que_el_objetivo_principal_es_de_colocar_el_nombre_correcto_del_personaje_mostrado_primero_al_momento_de_ingresar_a_la_aplicaci_n_entraremos_al_men_de_inicio_donde_encontraremos_3_botones_a_donde_nos_podremos_dirigir_primero_la_vista_de_jugar_nos_preguntar_el_personaje_con_base_a_la_imagen_si_acertamos_van_aumentando_los_puntos_si_no_lo_logramos_adivinar_perderemos_una_vida_y_haci_sucesivamente_ya_al_pulsar_en_el_bot_n_de_ayuda_nos_mostrara_la_lista_de_personajes_con_sus_nombre_para_ir_preparado_al_momento_de_jugar_y_por_ltimo_en_el_bot_n_de_acerca_de_informaci_n_del_funcionamiento"
+            android:textAlignment="center"
+            android:textColor="@android:color/background_light"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

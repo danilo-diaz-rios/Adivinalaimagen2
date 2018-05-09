@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Adivina la imagen2</string>
+    <string name="tu_lo_sabes">Tu lo sabes?</string>
+    <string name="adivina">ADIVINA</string>
+    <string name="empezar">EMPEZAR</string>
+    <string name="jugar">JUGAR</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="acerca_de">ACERCA</string>
+    <string name="puntuaci_n_mas_alta">Puntuación mas alta</string>
+    <string name="By">Hecho por:</string>
+    <string name="creador">Danilo</string>
+    <string name="maxpuntuacion">Maxima puntuación</string>
+    <string name="imagenaleatoria">imagenaleatoria</string>
+    <string name="correcto">Correcto</string>
+    <string name="incorrecto">Incorrecto</string>
+    <string name="vidainicial">Vidas: 3</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="charizard">Charizard</string>
+    <string name="gengar">Gengar</string>
+    <string name="black">Black</string>
+    <string name="articuno">Articuno</string>
+    <string name="shikamaru">Shikamaru</string>
+    <string name="hinata">Hinata</string>
+    <string name="gohan">Gohan</string>
+    <string name="asuma">Asuma</string>
+    <string name="goku">Goku</string>
+    <string name="naruto">Naruto</string>
+    <string name="tsunade">Tsunade</string>
+    <string name="vegeta">Vegeta</string>
+    <string name="textview">TextView</string>
+    <string name="danilo_diaz_rios">Danilo Diaz Rios</string>
+    <string name="hecho_por">Hecho por:</string>
+    <string name="t00033375">T00033375</string>
+    <string name="codigo">Codigo:</string>
+    <string name="proposito">Proposito:</string>
+    <string name="el_funcionamiento_b_sico_de_la_aplicaci_n_consiste_en_que_el_objetivo_principal_es_de_colocar_el_nombre_correcto_del_personaje_mostrado_primero_al_momento_de_ingresar_a_la_aplicaci_n_entraremos_al_men_de_inicio_donde_encontraremos_3_botones_a_donde_nos_podremos_dirigir_primero_la_vista_de_jugar_nos_preguntar_el_personaje_con_base_a_la_imagen_si_acertamos_van_aumentando_los_puntos_si_no_lo_logramos_adivinar_perderemos_una_vida_y_haci_sucesivamente_ya_al_pulsar_en_el_bot_n_de_ayuda_nos_mostrara_la_lista_de_personajes_con_sus_nombre_para_ir_preparado_al_momento_de_jugar_y_por_ltimo_en_el_bot_n_de_acerca_de_informaci_n_del_funcionamiento">El funcionamiento básico de la aplicación consiste en que el objetivo principal es de colocar el nombre correcto del personaje mostrado primero al momento de ingresar a la aplicación entraremos al menú de inicio donde encontraremos 3 botones a donde nos podremos dirigir primero la vista de jugar nos preguntará el personaje con base a la imagen si acertamos van aumentando los puntos si no lo logramos adivinar perderemos una vida y haci sucesivamente ya al pulsar en el botón de ayuda nos mostrara la lista de personajes con sus nombre para ir preparado al momento de jugar y por último en el botón de acerca de información del funcionamiento</string>
+    <string name="puntos_0">Puntos: 0</string>
+    <string name="ingrese_el_nombre">Ingrese el nombre</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="vidas_3">Vidas: 3</string>
+    <string name="acerca">acerca</string>
+    <string name="todo">TODO</string>
+
+</resources>
