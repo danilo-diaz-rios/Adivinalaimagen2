@@ -40,7 +40,7 @@ public class jugar extends AppCompatActivity {
         vidas=(TextView)findViewById(R.id.Vidas);
         contador=(TextView)findViewById(R.id.Cuenta);
         imagen=(ImageView)findViewById(R.id.imagen);
-        txtedit=(EditText)findViewById(R.id.txtedit);
+        txtedit=(EditText)findViewById(R.id.editText);
         btnconfirmar=(Button)findViewById(R.id.btnconfirmar);
 
         establecer_imagen(numerogenerado);
@@ -86,6 +86,9 @@ public class jugar extends AppCompatActivity {
             public void onFinish() {
 
                 btnconfirmar.setVisibility(View.VISIBLE);
+                establecer_imagen(numerogenerado);
+                numerogenerado=numerogenerado+1;
+                contador.setText("");
                 txtincorrecto.setVisibility(View.INVISIBLE);
                 txtedit.setText("");
                 txtedit.setHint("Ingrese el nombre del personaje");
