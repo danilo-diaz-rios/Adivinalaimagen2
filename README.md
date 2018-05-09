@@ -19,7 +19,7 @@ el funcionamiento básico de la aplicación consiste en que el objetivo principa
         <td><img src="https://github.com/danilo-diaz-rios/Adivinalaimagen2/blob/master/ayuda.jpeg"</th>
         <td><img src="https://github.com/danilo-diaz-rios/Adivinalaimagen2/blob/master/home.jpeg"</th>
         <td><img src="https://github.com/danilo-diaz-rios/Adivinalaimagen2/blob/master/jugar.jpeg"</th>
-        <td><img src="https://github.com/danilo-diaz-rios/Adivinalaimagen2/blob/master/jugarcorrecto.jpeg"</th>
+        <td><img src="https://github.com/danilo-diaz-rios/Adivinalaimagen2/blob/master/jucarcorrecto.jpeg"</th>
  </tr>
 </table>
 
