@@ -24,5 +24,9 @@ el funcionamiento básico de la aplicación consiste en que el objetivo principa
 </table>
 
 # Icono
-        
+<img src="https://github.com/danilo-diaz-rios/Adivinalaimagen2/blob/master/logo.png">
+
+# Politica de privacidad de Adivina la imagen
+
+La aplicacion presente en ningun momento accede a los datos personales del usuario 
        
