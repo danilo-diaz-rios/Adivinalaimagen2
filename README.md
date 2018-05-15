@@ -29,4 +29,10 @@ el funcionamiento básico de la aplicación consiste en que el objetivo principa
 # Politica de privacidad de Adivina la imagen
 
 La aplicacion presente en ningun momento accede a los datos personales del usuario 
+
+# apk version release
+
+<a href="https://github.com/danilo-diaz-rios/Adivinalaimagen2/blob/master/app-release.apk?raw=true">juego</a>
+
+
        
