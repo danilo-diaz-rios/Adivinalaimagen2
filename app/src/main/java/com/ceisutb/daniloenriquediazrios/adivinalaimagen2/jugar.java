@@ -1,4 +1,4 @@
-package com.example.daniloenriquediazrios.adivinalaimagen2;
+package com.ceisutb.daniloenriquediazrios.adivinalaimagen2;
 
 import android.os.CountDownTimer;
 import android.support.v7.app.AppCompatActivity;
@@ -86,9 +86,6 @@ public class jugar extends AppCompatActivity {
             public void onFinish() {
 
                 btnconfirmar.setVisibility(View.VISIBLE);
-                establecer_imagen(numerogenerado);
-                numerogenerado=numerogenerado+1;
-                contador.setText("");
                 txtincorrecto.setVisibility(View.INVISIBLE);
                 txtedit.setText("");
                 txtedit.setHint("Ingrese el nombre del personaje");

@@ -1,4 +1,4 @@
-package com.example.daniloenriquediazrios.adivinalaimagen2;
+package com.ceisutb.daniloenriquediazrios.adivinalaimagen2;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

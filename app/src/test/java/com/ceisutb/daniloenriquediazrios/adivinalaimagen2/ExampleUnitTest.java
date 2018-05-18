@@ -1,4 +1,4 @@
-package com.example.daniloenriquediazrios.adivinalaimagen2;
+package com.ceisutb.daniloenriquediazrios.adivinalaimagen2;
 
 import org.junit.Test;
 
